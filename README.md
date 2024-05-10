@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Harisha T
 - 👀 I’m an aspiring Data analyst...
-- 🌱 I’m doing my internship at UMAM
+- 🌱 I am a Certified Data Analyst
+-    I have finished my 2 months internship at Unified Mentors Private LTD
+-    I am looking out for new Job roles.
 
 
 
