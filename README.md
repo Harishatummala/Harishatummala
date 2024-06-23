@@ -2,7 +2,7 @@
 - 👀 I’m an aspiring Certified Data analyst.
 - 🌱 My LinkedIn Profile- www.linkedin.com/in/harisha-t
 -    I have finished my 2 months internship at Unified Mentors Private LTD
--    I am doing PowerBI internship at Cognifyz Private LTD
+-    I have just finished my PowerBI internship at Cognifyz Private LTD
 -    I am looking out for new Job roles.
 
 
